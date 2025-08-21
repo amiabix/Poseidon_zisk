@@ -1,6 +1,6 @@
 # Poseidon Hasher for ZisK
 
-A Rust implementation of the Poseidon hash function designed to work with the ZisK zero-knowledge proof system.
+A Rust implementation of the Poseidon hash function designed to work with the ZisK VM.
 
 ## Overview
 
